@@ -20,6 +20,7 @@ export default function Pokemon() {
     const data = await getAxios(suffixe)
     if(data){ 
       setPokemon(data)
+      console.log('ok')
     }
   }
 
