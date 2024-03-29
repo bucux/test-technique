@@ -1,0 +1,38 @@
+
+
+:root{
+  --green: #2BAEB7;
+}
+
+img {
+  object-fit: cover;
+}
+
+.centreur {
+  width: 1280px;
+}
+
+html, body, #root{
+  height: 100%;
+  width: 100%;
+}
+
+*{
+  font-family: "Nintendo U", sans-serif;
+}
+
+h1{
+  font-size: 40px;
+  font-weight: 600;
+}
+
+h2{
+  font-size: 25px;
+  font-weight: 600;
+}
+
+#root{
+  border-left: solid 10px red;
+  border-right: solid 10px red;
+  padding: 0;
+}

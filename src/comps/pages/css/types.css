@@ -1,0 +1,13 @@
+
+
+.types-cont0{
+  display: flex;
+  flex-direction: column;
+  gap: 100px;
+}
+
+.types-cont1{
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}

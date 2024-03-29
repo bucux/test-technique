@@ -1,0 +1,14 @@
+
+
+.home-cont0{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 60%;
+  gap: 100px;
+}
+
+.home-cont0 img{
+  height: 50px;
+  width: 100px;
+}

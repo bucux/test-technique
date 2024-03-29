@@ -1,0 +1,19 @@
+
+
+.pokemon-cont0{
+  display: flex;
+  flex-direction: column;
+  gap: 100px;
+}
+
+.pokemon-cont1{
+  display: flex;
+  justify-content: center;
+  gap: 100px;
+}
+
+.pokemon-cont2{
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}

@@ -1,0 +1,15 @@
+
+
+.type-cont0{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  gap: 100px;
+}
+
+.type-cont1{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
+}
